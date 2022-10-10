@@ -7,7 +7,7 @@
 body {
   font-family: 'DM Sans', sans-serif;
   font-size: 18px;
-  background-color: hsl(27, 66%, 92%);
+  background-color: #FFF7E9;
  
 }
 
@@ -20,7 +20,7 @@ h1, h2, h3 {
 }
 
 .soft-red{
-  background-color: hsl(219, 79%, 65%);
+  background-color: #5F9DF7;
 }
 
 canvas:hover{
