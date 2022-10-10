@@ -19,7 +19,14 @@ function App() {
       {
         label: "",
         backgroundColor: "#1746A2",
-        hoverBackgroundColor: "#FF731D",
+        hoverBackgroundColor: [
+          "green",
+          "#333",
+          "red",
+          "rgb(172, 12, 187)",
+          "#FFDE00",
+          "#FF731D",
+        ],
         borderRadius: 8,
         data: [17.45, 34.91, 52.36, 31.07, 23.39, 43.28, 25.48],
       },
